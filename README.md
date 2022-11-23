@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Engelina Prevoo
 - 👀 I’m interested in Coding and Developing Websites
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python with Django
 
 
 <!---
